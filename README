@@ -1,0 +1,10 @@
+		Slope Simulator for a portable Immersive Virtual Reality (IVE)
+
+What is it?
+-----------
+The Slope Simulator is meant as a plugin for a portable IVE that tracks 
+how much a person is walking around in the real world and calculates
+how much of the slope they have traversed. The calculation is done
+by calculating the calories needed to traverse the slope and the
+calories actually burnt by walking around then taking ratio to
+determine the actual distance walked. 
